@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Sample-App
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tejas.bhagwat
+Implementation-Vendor-Id: tejas
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Sample-App
+Created-By: Maven Integration for Eclipse
+
